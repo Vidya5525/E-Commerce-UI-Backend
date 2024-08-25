@@ -17,6 +17,9 @@ dist-ssr/
 # Local environment files
 *.local
 
+# Ignore .env file in the backend
+Backend/.env
+
 # Editor directories and files
 .vscode/
 !.vscode/extensions.json
